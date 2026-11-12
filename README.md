@@ -15,9 +15,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,55:14306B,100:5BC0EB&height=150&section=footer&reversal=true&text=Hi,%20I'm%20Kit&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Exercise%20Scientist%20by%20day.%20Senior%20Vibe%20Engineer%20by%20night.&descAlignY=68&descSize=16">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:BFE6F7,100:5BC0EB&height=150&section=footer&reversal=true&text=Hi,%20I'm%20Kit&fontSize=50&fontColor=14306B&animation=fadeIn&fontAlignY=40&desc=Exercise%20Scientist%20by%20day.%20Senior%20Vibe%20Engineer%20by%20night.&descAlignY=68&descSize=16" width="100%"/>
-  </picture>
-</p>
+
 
 <!-- ===== VIBE CODED INTRO ===== -->
 
