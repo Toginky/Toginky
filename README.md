@@ -1,21 +1,36 @@
-<!-- ===== 1. ANIMATED HEADER ===== -->
+<!-- ===== THE INTRO (vibe coded, obviously) ===== -->
+
+```python
+# Sure! Let's make you a simple README for GitHub 🚀
+# Here's a clean, professional starting point:
+
+print("Hello, World!")
+```
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20👋&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Senior%20Vibe%20Engineer%20@%20Prompt%20%26%20Pray%20Pty%20Ltd&descAlignY=75&descSize=18"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1500&color=B44CFF&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+World!;Hello%2C+World!+(it+compiled);Hello%2C+World!+(no+idea+why)" />
 </p>
 
-<!-- ===== 2. TYPING LINE ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=650&lines=I+only+develop+in+prod;Currently+in+a+filler+arc;Tactical+acquisition+expert;Running+(out+of+money)" />
-</p>
+<p align="center"><sub>✨ This README was 100% vibe coded. I have reviewed approximately 0% of it.</sub></p>
 
-<!-- ===== 3. MOVING ANIME BANNER ===== -->
-<!-- Swap in your gif. Wide gifs look best (roughly 3:1 or 16:9). -->
-<p align="center">
-  <img src="PASTE_ANIME_BANNER_GIF_HERE" width="100%"/>
-</p>
+<!-- ===== THE FUNNY BIT ===== -->
 
-<!-- Animated rainbow divider (delete if it ever breaks) -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="saitama.gif" width="100%"/>
+      <br><b>me when the code runs<br>and i understand none of it</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="this-is-fine.gif" width="100%"/>
+      <br><b>me when the code doesn't run<br>(it's in production)</b>
+    </td>
+  </tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ===== THE SRS STUFF ===== -->
 
 <h2>👨🏻‍💻 A Little Bit About Me</h2>
 
@@ -45,9 +60,6 @@ currently_learning: ["why it worked yesterday"]
 hobbies: ["Gaming", "Anime", "Running (out of money)"]
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ===== 4. TOOLS (big icons, like the reference profile) ===== -->
 <h2>🚀 Tools I Pretend To Understand</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45"/>
@@ -58,27 +70,23 @@ hobbies: ["Gaming", "Anime", "Running (out of money)"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
-<!-- Flashy badge row underneath -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Testing-in%20prod-red?style=for-the-badge&logo=fireship&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code%20Review-Vibes-blueviolet?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bugs-Features-success?style=for-the-badge&logo=bugatti&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testing-in%20prod-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code%20Review-Vibes-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bugs-Features-success?style=for-the-badge"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ===== 5. STATS ===== -->
 <h2>📊 Proof I Did Something</h2>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Toginky&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Toginky&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Toginky&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues,contribs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toginky&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- ===== 6. FOOTER ===== -->
+<!-- ===== FOOTER (add more here later) ===== -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toginky&color=ff69b4&style=for-the-badge&label=VICTIMS%20WHO%20VISITED"/>
+  <img src="https://komarev.com/ghpvc/?username=Toginky&color=b44cff&style=for-the-badge&label=VICTIMS%20WHO%20VISITED"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:7b2ff7,100:f107a3&height=110&section=footer"/>
 </p>
