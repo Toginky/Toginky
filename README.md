@@ -1,16 +1,27 @@
 ## Hi there 👋
+```yaml
+name: kit
+located_in: Sydney, NSW
+current_job: Senior Vibe Engineer
+education:
+  [
+    "Bachelor's in Applied Science (Exercise & Sport Science)",
+  ]
+company: Prompt & Pray Pty Ltd
 
-<!--
-**Toginky/Toginky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fields_of_interests:
+  [
+  Strength & Conditioning
+  Sport Science
+  ]
+technical_background:
+  [
+    "Gets stuff done"
+    "Tactical acquision expert",
+  ]
+  
+currently_learning: ["why it worked yesterday"]
+2026 Goals: ["make it work tomorrow too."]
+hobbies: ["Gaming", "Anime", "Running (out of money)"]
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
