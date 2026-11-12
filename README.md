@@ -96,8 +96,16 @@ hobbies: ["Gaming", "Anime", "Running (out of money)"]
 
 <h2>📊 Proof I Did Something</h2>
 <p align="center">
-  <img height="170" src="profile-summary-card-output/nord_dark/3-stats.svg"/>
-  <img height="170" src="profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
+  <img src="https://img.shields.io/badge/Commits-mostly%20%22fix%22-5BC0EB?style=for-the-badge&labelColor=0B1026"/>
+  <img src="https://img.shields.io/badge/Lines%20written%20by%20me-12-14306B?style=for-the-badge&labelColor=0B1026"/>
+  <img src="https://img.shields.io/badge/Lines%20written%20by%20AI-yes-5BC0EB?style=for-the-badge&labelColor=0B1026"/>
+  <br>
+  <img src="https://img.shields.io/badge/Bugs%20fixed-1-FFFFFF?style=for-the-badge&labelColor=0B1026"/>
+  <img src="https://img.shields.io/badge/Bugs%20created-47-14306B?style=for-the-badge&labelColor=0B1026"/>
+  <img src="https://img.shields.io/badge/Uptime-until%20I%20touch%20it-5BC0EB?style=for-the-badge&labelColor=0B1026"/>
+  <br>
+  <img src="https://img.shields.io/badge/Stack%20Overflow%20tabs%20open-%E2%88%9E-FFFFFF?style=for-the-badge&labelColor=0B1026"/>
+  <img src="https://img.shields.io/github/followers/Toginky?style=for-the-badge&label=People%20who%20believe%20in%20me&color=14306B&labelColor=0B1026"/>
 </p>
 
 <!-- ===== FOOTER (add more here later) ===== -->
